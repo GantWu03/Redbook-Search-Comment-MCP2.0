@@ -6,7 +6,7 @@
 
 </div>
 
-> 项目基于(https://github.com/chenningling/Redbook-Search-Comment-MCP2.0.git)，便于使用略作微调
+> 项目基于(https://github.com/chenningling/Redbook-Search-Comment-MCP2.0.git) ，便于使用略作微调
 
 这是一款基于 Playwright 开发的小红书自动搜索和评论工具，作为 MCP Server，可通过特定配置接入 MCP Client（如Claude for Desktop），帮助用户自动完成登录小红书、搜索关键词、获取笔记内容及发布AI生成评论等操作。
 
